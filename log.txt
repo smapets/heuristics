@@ -1,0 +1,95 @@
+
+ 
+ New Instance: 
+You will attempt to solve the travelling salesman problem for  7 destinations
+ The coordinates randomly picked for these 7 cities are:
+ 1.55,0.09
+ 3.47,6.69
+ 6.83,8.13
+ 8.62,0.35
+ 0.02,2.81
+ 0.24,3.73
+ 5.84,9.3
+ The solution(using genetic Algorithm) for Travelling salesman problem for the cities(coordinates):
+ Current generation is: 5032614,4521360,2154603,3402561,4652031,2041563,0514326,2350146,1462035,3506124
+ The current record of this generation is:29.170000000000005m
+ The corresponding best path of this generation is:5032614
+ The total best is:5032614
+ The generation best is:5032614
+
+ Current generation is: 2136045,2041563,0326145,1462035,3452160,6120453,3502614,3506124,5032614,4521360
+ The current record of this generation is:35.43m
+ The corresponding best path of this generation is:2136045
+ The current record of this generation is:26.250000000000004m
+ The corresponding best path of this generation is:0326145
+ The total best is:0326145
+ The generation best is:0326145
+
+ Current generation is: 3261450,2614530,1435026,6012453,0326145,5032614,4521603,2041563,6120453,6032145
+ The current record of this generation is:23.05m
+ The corresponding best path of this generation is:3261450
+ The total best is:3261450
+ The generation best is:3261450
+
+ Current generation is: 3261450,5032614,2614503,3052614,2614530,6120453,0415632,3452160,6032145,0326145
+ The current record of this generation is:23.05m
+ The corresponding best path of this generation is:3261450
+ The current record of this generation is:22.14m
+ The corresponding best path of this generation is:2614503
+ The total best is:2614503
+ The generation best is:2614503
+
+ Current generation is: 3261450,4503261,0326145,5032614,2614530,1453026,6032145,3502614,2614503,3452160
+ The current record of this generation is:23.05m
+ The corresponding best path of this generation is:3261450
+ The current record of this generation is:22.14m
+ The corresponding best path of this generation is:2614503
+ The total best is:2614503
+ The generation best is:2614503
+
+ Current generation is: 3261450,1450326,2614530,2614503,3502614,6450321,6145032,4503261,5306214,0261453
+ The current record of this generation is:23.05m
+ The corresponding best path of this generation is:3261450
+ The current record of this generation is:22.14m
+ The corresponding best path of this generation is:2614503
+ The total best is:2614503
+ The generation best is:2614503
+
+ Current generation is: 0326145,2614503,4503216,6450321,6145023,6145032,5032614,1450263,4503261,0261453
+ The current record of this generation is:26.250000000000004m
+ The corresponding best path of this generation is:0326145
+ The current record of this generation is:22.14m
+ The corresponding best path of this generation is:2614503
+ The total best is:2614503
+ The generation best is:2614503
+
+ Current generation is: 0326145,3261450,4503261,2614503,5031426,6145032,1450263,5032164,6145023,6145320
+ The current record of this generation is:26.250000000000004m
+ The corresponding best path of this generation is:0326145
+ The current record of this generation is:23.05m
+ The corresponding best path of this generation is:3261450
+ The current record of this generation is:22.14m
+ The corresponding best path of this generation is:2614503
+ The total best is:2614503
+ The generation best is:2614503
+
+ Current generation is: 0326145,2614503,2361450,1450263,3261450,1450326,0261435,6145032,0265314,5032164
+ The current record of this generation is:26.250000000000004m
+ The corresponding best path of this generation is:0326145
+ The current record of this generation is:22.14m
+ The corresponding best path of this generation is:2614503
+ The total best is:2614503
+ The generation best is:2614503
+
+ Current generation is: 1450326,4150326,2614503,1450263,3261450,5026143,2615403,5032164,5032614,0326145
+ The current record of this generation is:26.590000000000003m
+ The corresponding best path of this generation is:1450326
+ The current record of this generation is:22.14m
+ The corresponding best path of this generation is:2614503
+ The current record of this generation is:20.58m
+ The corresponding best path of this generation is:2615403
+ The total best is:2615403
+ The generation best is:2615403
+
+ The best solution is the following permutation of the destinations: 2615403. Total distance covered in this path will be: 20.58m
+ The best solution was found at the 10 iteration, out of 10
